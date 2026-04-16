@@ -35,7 +35,7 @@ Requires (and validated on) `Python 3.11+`.
 First, clone this repository:
 
 ```bash
-git clone https://github.com/NeptuneZhao/WindowsWorld.git
+git clone https://github.com/HITsz-TMG/WindowsWorld.git
 cd WindowsWorld
 ```
 
