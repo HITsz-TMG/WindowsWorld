@@ -8,7 +8,7 @@ Anyone can download VMware Workstation **Pro** for free thanks to Broadcom.
 
 While installing, you may encounter some problems:
 
-![hyper-v-detected](./resources/hyper-v-detect.png)
+![hyper-v-detected](./assets/hyper-v-detect.png)
 
 If you see this, it means that Hyper-V is enabled on your system. Although VMware Workstation Pro can run with Hyper-V enabled, it may cause performance issues. To disable Hyper-V, you can follow these steps:
 
