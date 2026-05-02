@@ -1,6 +1,6 @@
 ﻿# WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments
 
-![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)
+[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)](https://arxiv.org/abs/2604.27776v1)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 ![Python](https://img.shields.io/badge/Python-3.11+-yellow)
 
