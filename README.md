@@ -172,11 +172,10 @@ The OSWorld-derived portions of this repository remain subject to the Apache Lic
 Please cite our paper if you find this benchmark useful for your research:
 
 ```bibtex
-@inproceedings{li2026windowsworld,
+@article{li2026windowsworld,
   title={WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments},
-  author={Jinchao Li and Yunxin Li and Chenrui Zhao and Zhenran Xu and Baotian Hu and Min Zhang},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
-  year={2026},
-  url={https://openreview.net/forum?id=qDZP06FdPl}
+  author={Li, Jinchao and Li, Yunxin and Zhao, Chenrui and Xu, Zhenran and Hu, Baotian and Zhang, Min},
+  journal={arXiv preprint arXiv:2604.27776},
+  year={2026}
 }
 ```
